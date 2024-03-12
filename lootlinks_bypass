@@ -2,7 +2,7 @@
 // @name         [Working] loot-link.com bypasser (includes all lootlabs.gg link variations)
 // @homepageURL  https://discord.gg/92p6X2drxn
 // @description  bypasses loot-link.com quickly and efficiently, saving you time and energy.
-// @author       d15c0rdh4ckr (768868463459434517)
+// @author       jaycmds
 // @match        https://loot-link.com/s?*
 // @match        https://loot-links.com/s?*
 // @match        https://lootlink.org/s?*
